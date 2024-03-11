@@ -1,0 +1,74 @@
+{
+  "permissions": [
+    {
+      "id": "1",
+      "modules": ["schedule", "feed", "meets", "people", "profile"]
+    },
+    {
+      "id": "2",
+      "modules": ["profile", "feed", "schedule"]
+    },
+    {
+      "id": "3",
+      "modules": ["profile", "feed", "people", "meets"]
+    },
+    {
+      "id": "4",
+      "modules": ["schedule", "feed", "profile"]
+    }
+  ],
+  "theme": [
+    {
+      "id": "1",
+      "theme": {
+        "palette": {
+          "primary": {
+            "main": "#1976d2"
+          },
+          "secondary": {
+            "main": "#f44336"
+          }
+        }
+      }
+    },
+    {
+      "id": "2",
+      "theme": {
+        "palette": {
+          "primary": {
+            "main": "#4caf50"
+          },
+          "secondary": {
+            "main": "#ff9800"
+          }
+        }
+      }
+    },
+    {
+      "id": "3",
+      "theme": {
+        "palette": {
+          "primary": {
+            "main": "#9c27b0"
+          },
+          "secondary": {
+            "main": "#ffeb3b"
+          }
+        }
+      }
+    },
+    {
+      "id": "4",
+      "theme": {
+        "palette": {
+          "primary": {
+            "main": "#e91e63"
+          },
+          "secondary": {
+            "main": "#795548"
+          }
+        }
+      }
+    }
+  ]
+}
